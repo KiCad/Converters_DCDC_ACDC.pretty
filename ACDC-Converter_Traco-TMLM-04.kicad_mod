@@ -1,12 +1,12 @@
-(module ACDC-Converter_Traco-TMLM-04_RevC_20Jul2012 (layer F.Cu)
+(module ACDC-Converter_Traco-TMLM-04 (layer F.Cu)
   (at 0 0)
   (descr "ACDC-Converter, TRACO, TMLM Series 04,")
   (tags "ACDC-Converter, TRACO, TMLM Series 04,")
-  (fp_text reference IC (at -0.0508 -19.7739) (layer F.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text reference ACDC-Converter_Traco-TMLM-04 (at -0.0508 -19.7739) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value ACDC-Converter_Traco-TMLM-04_RevC_20Jul2012 (at 0 20.32) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text value VAL** (at 0 20.32) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 16.47444 -11.69924) (end 15.8242 -11.69924) (layer F.SilkS) (width 0.15))
   (fp_line (start 15.8242 -11.69924) (end 15.69974 -11.67384) (layer F.SilkS) (width 0.15))

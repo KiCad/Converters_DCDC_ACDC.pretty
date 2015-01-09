@@ -1,7 +1,7 @@
-(module DCDC-Conv_Recom_R-78HBxx-0.5 (layer F.Cu) (tedit 548A9BBA)
+(module DCDC-Conv_Recom_R-78HBxx-0.5 (layer F.Cu) (tedit 54AF95A7)
   (descr "Recom R-78HBxx.0.5")
   (tags "Recom DCDC R-78")
-  (fp_text reference R-78 (at 2.54 2.6) (layer F.SilkS)
+  (fp_text reference DCDC-Conv_Recom_R-78HBxx-0.5 (at 2.5 -2.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 2.54 4.9) (layer F.SilkS) hide

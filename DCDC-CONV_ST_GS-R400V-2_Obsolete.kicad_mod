@@ -1,10 +1,10 @@
 (module DCDC-CONV_ST_GS-R400V-2_Obsolete (layer F.Cu) (tedit 54B1C911)
   (descr "DCDC-Converter,  ST, GS-R400V/2, Obsolete, RevA, 24Mar2011,")
   (tags "DCDC-Converter,  ST, GS-R400V/2, Obsolete, RevA, 24Mar2011,")
-  (fp_text reference DCDC-CONV_ST_GS-R400V-2_Obsolete (at 0 -7.6) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -7.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -5.6) (layer F.SilkS) hide
+  (fp_text value DCDC-CONV_ST_GS-R400V-2_Obsolete (at 0 -5.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user GS-R400V/2 (at -5.9995 21.5 90) (layer F.SilkS)

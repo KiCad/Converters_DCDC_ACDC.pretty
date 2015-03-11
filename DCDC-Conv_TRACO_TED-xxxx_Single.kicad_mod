@@ -1,10 +1,10 @@
 (module DCDC-Conv_TRACO_TED-xxxx_Single (layer F.Cu) (tedit 54B1C911)
   (descr "DCDC-Converter, TRACO, TED-xxxx, Single output, generic, RevA")
   (tags "DCDC-Converter, TRACO, TED-xxxx, Single output, generic, RevA")
-  (fp_text reference DCDC-Conv_TRACO_TED-xxxx_Single (at 0 -5.85) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -3.85) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_TRACO_TED-xxxx_Single (at 0 -3.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user "Single Output" (at 7.4 19.08) (layer F.SilkS)

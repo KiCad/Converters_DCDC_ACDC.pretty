@@ -1,10 +1,10 @@
 (module DCDC-Conv_DELTA_DPS05U09D_5VDCto9VDC (layer F.Cu) (tedit 54B1C715)
   (descr "DCDC-Converter, DELTA, Type DPS05U09D, 5VDC to 9VDC, RevA, 28Mar2011")
   (tags "DCDC-Converter, DELTA, Type DPS05U09D, 5VDC to 9VDC, RevA, 28Mar2011")
-  (fp_text reference DCDC-Conv_DELTA_DPS05U09D_5VDCto9VDC (at 0 -6.65) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -6.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -4.65) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_DELTA_DPS05U09D_5VDCto9VDC (at 0 -4.65) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user NC (at 10.920911 2.384831) (layer F.SilkS)

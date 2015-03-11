@@ -1,10 +1,10 @@
 (module DCDC-Conv_TRACO_TED-xxxx_Dual (layer F.Cu) (tedit 54B1C911)
   (descr "DCDC-Converter, TRACO, TED-xxxx, Dual output, generic, RevA")
   (tags "DCDC-Converter, TRACO, TED-xxxx, Dual output, generic, RevA")
-  (fp_text reference DCDC-Conv_TRACO_TED-xxxx_Dual (at 0 -5.85) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -3.85) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_TRACO_TED-xxxx_Dual (at 0 -3.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user "Dual Output" (at 7.6 19.08) (layer F.SilkS)

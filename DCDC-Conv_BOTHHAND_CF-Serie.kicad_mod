@@ -1,10 +1,10 @@
 (module DCDC-Conv_BOTHHAND_CF-Serie (layer F.Cu) (tedit 54B1C6B1)
   (descr "DCDC-Converter, BOTHHAND, Type CF-Serie,  RevA, 28Mar2011")
   (tags "DCDC-Converter, BOTHHAND, Type CF-Serie,  RevA, 28Mar2011")
-  (fp_text reference DCDC-Conv_BOTHHAND_CF-Serie (at 0 -6.65) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -6.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -4.65) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_BOTHHAND_CF-Serie (at 0 -4.65) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.5 -3.1) (end -1.5 31) (layer F.CrtYd) (width 0.05))

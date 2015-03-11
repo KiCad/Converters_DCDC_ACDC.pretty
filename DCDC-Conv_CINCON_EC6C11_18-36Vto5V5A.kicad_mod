@@ -1,10 +1,10 @@
 (module DCDC-Conv_CINCON_EC6C11_18-36Vto5V5A (layer F.Cu) (tedit 54B1C715)
   (descr "DCDC-Converter, CINCON, EC6C11, 18-36V to 5V 5A, RevA")
   (tags "DCDC-Converter, CINCON, EC6C11, 18-36V to 5V 5A, RevA")
-  (fp_text reference DCDC-Conv_CINCON_EC6C11_18-36Vto5V5A (at 0 -8.9) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -8.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -6.9) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_CINCON_EC6C11_18-36Vto5V5A (at 0 -6.9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.25 -5.35) (end -3.25 45.95) (layer F.CrtYd) (width 0.05))

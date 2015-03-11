@@ -1,10 +1,10 @@
 (module DCDC-Conv_TRACO_TME05xx_TME12xx (layer F.Cu) (tedit 54B1C911)
   (descr "DCDC-Converter, Traco, TME05xx, TME12xx, RevA, 27Mar2011,")
   (tags "DCDC-Converter, Traco, TME05xx, TME12xx, RevA, 27Mar2011,")
-  (fp_text reference DCDC-Conv_TRACO_TME05xx_TME12xx (at 0 -8.2) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -8.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -6.2) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_TRACO_TME05xx_TME12xx (at 0 -6.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user 1 (at -1.4 1) (layer F.SilkS)

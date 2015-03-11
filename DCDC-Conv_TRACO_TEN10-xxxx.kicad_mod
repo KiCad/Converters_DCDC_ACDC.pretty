@@ -1,10 +1,10 @@
 (module DCDC-Conv_TRACO_TEN10-xxxx (layer F.Cu) (tedit 54B1C887)
   (descr "DCDC-Converter, TRACO, TEN10-xxxx, Generic, RevA")
   (tags "DCDC-Converter, TRACO, TEN10-xxxx, Generic, RevA")
-  (fp_text reference DCDC-Conv_TRACO_TEN10-xxxx (at 0 -14) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -14) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -12) (layer F.SilkS) hide
+  (fp_text value DCDC-Conv_TRACO_TEN10-xxxx (at 0 -12) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user TEN10-xxxx (at -8.085315 2.794491 90) (layer F.SilkS)

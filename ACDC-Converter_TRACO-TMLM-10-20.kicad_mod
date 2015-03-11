@@ -1,10 +1,10 @@
 (module ACDC-Converter_TRACO-TMLM-10-20 (layer F.Cu) (tedit 54B1C9AF)
   (descr "ACDC-Converter, TRACO TMLM 10, TRACO TMLM 20,")
   (tags "ACDC-Converter, TRACO TMLM 10, TRACO TMLM 20,")
-  (fp_text reference ACDC-Converter_TRACO-TMLM-10-20 (at 0 -17.85) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -17.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -15.85) (layer F.SilkS) hide
+  (fp_text value ACDC-Converter_TRACO-TMLM-10-20 (at 0 -15.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user "AC Uin" (at 45.8 -0.2 90) (layer F.SilkS)

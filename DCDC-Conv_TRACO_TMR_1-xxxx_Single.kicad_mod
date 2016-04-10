@@ -1,6 +1,6 @@
 (module DCDC-Conv_TRACO_TMR_1-xxxx_Single (layer F.Cu) (tedit 570A6942)
-  (descr "DCDC-Converter, TRACO, TMR 1-xxxx, Single output, Rev. August 30. 2013")
-  (tags "DCDC-Converter, TRACO, TMR 1-xxxx, Single output, Rev. August 30. 2013")
+  (descr "DCDC-Converter, TRACO, TMR 1-xxxx, Single output, Rev. March 21. 2016")
+  (tags "DCDC-Converter, TRACO, TMR 1-xxxx, Single output, Rev. March 21. 2016")
   (fp_text reference REF** (at 6.5 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

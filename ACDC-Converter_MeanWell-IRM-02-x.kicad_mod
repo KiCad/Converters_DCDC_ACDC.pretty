@@ -22,5 +22,5 @@
   (pad 1 thru_hole circle (at 0 0) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 15.2) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 28 0) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
-  (pad 4 thru_hole circle (at 28 8.65) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 28 7.6) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
 )

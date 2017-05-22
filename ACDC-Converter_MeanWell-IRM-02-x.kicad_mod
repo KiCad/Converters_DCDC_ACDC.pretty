@@ -1,4 +1,4 @@
-(module ACDC-Converter_MeanWell-IRM-02-x (layer F.Cu) (tedit 58388E98)
+(module ACDC-Converter_MeanWell-IRM-02-x (layer F.Cu) (tedit 592302E5)
   (descr "ACDC-Converter, 2W, Meanwell, IRM-02, THT")
   (fp_text reference REF** (at 15.15 -5.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -23,4 +23,9 @@
   (pad 2 thru_hole circle (at 0 15.2) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 28 0) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 28 7.6) (size 2.29 2.29) (drill 0.76) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Converter_MeanWell-IRM-02-x.step
+    (at (xyz -0.1102362204724409 -0.7381889763779528 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

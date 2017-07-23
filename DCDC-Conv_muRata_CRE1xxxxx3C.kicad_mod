@@ -1,5 +1,6 @@
 (module DCDC-Conv_muRata_CRE1xxxxx3C (layer F.Cu) (tedit 59750C95)
 (descr "muRata CRE1xxxxx3C footprint, http://power.murata.com/data/power/ncl/kdc_cre1.pdf")
+(tags "muRata CRE1xxxxx3C DCDC-Converter isolation")
   (fp_text reference REF** (at 3.81 5.842) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

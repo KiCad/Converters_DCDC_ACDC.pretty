@@ -1,8 +1,9 @@
-(module DCDC-Conv_muRata_NMAxxxx3C (layer F.Cu) (tedit 59750C95)
+(module DCDC-Conv_muRata_CRE1xxxxx3C (layer F.Cu) (tedit 59750C95)
+(descr "muRata CRE1xxxxx3C footprint, http://power.murata.com/data/power/ncl/kdc_cre1.pdf")
   (fp_text reference REF** (at 3.81 5.842) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DCDC-Conv_muRata_NMAxxxx3C (at 3.81 -2.286) (layer F.Fab)
+  (fp_text value DCDC-Conv_muRata_CRE1xxxxx3C (at 3.81 -2.286) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 

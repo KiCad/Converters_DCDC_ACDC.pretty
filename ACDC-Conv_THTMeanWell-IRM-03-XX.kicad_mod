@@ -1,4 +1,4 @@
-(module THTMeanWell-IRM-03-XX (layer F.Cu) (tedit 59FD9756)
+(module ACDC-Conv_THTMeanWell-IRM-03-XX (layer F.Cu) (tedit 59FF00A2)
   (descr "ACDC-Converter, 2W, Meanwell, IRM-02, THT, https://www.meanwell.co.uk/media/productPDF/IRM-02-spec.pdf")
   (tags "ACDC-Converter 2W THT")
   (fp_text reference REF** (at -0.8 -4.8) (layer F.SilkS)

@@ -1,6 +1,6 @@
-(module DCDC-Conv_TRACO_TEN10-XXXX_Single (layer F.Cu) (tedit 59FEFD59)
+(module DCDC-Conv_TRACO_TEN10-XXXX_Single (layer F.Cu) (tedit 59FF017C)
   (descr "DCDC-Converter, TRACO, TEN10-xxxx, single output, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf")
-  (tags "DCDC-Converter TRACO, TEN10-xxxx single output")
+  (tags "DCDC-Converter TRACO TEN10-xxxx single output")
   (fp_text reference REF** (at -8.16 -16.22 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

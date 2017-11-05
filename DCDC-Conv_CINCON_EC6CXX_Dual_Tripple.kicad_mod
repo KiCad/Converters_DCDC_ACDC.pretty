@@ -1,6 +1,6 @@
-(module DCDC-Conv_CINCON_EC6CXX_Dual_Tripple (layer F.Cu) (tedit 59FDE38B)
+(module DCDC-Conv_CINCON_EC6CXX_Dual_Tripple (layer F.Cu) (tedit 59FEFC71)
   (descr "DCDC-Converter, CINCON, EC6CXX, dual or tripple output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf")
-  (tags "DCDC-Converter, CINCON, EC6CXX, dual or tripple output")
+  (tags "DCDC-Converter CINCON, EC6CXX dual or tripple output")
   (fp_text reference REF** (at -1 -6.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

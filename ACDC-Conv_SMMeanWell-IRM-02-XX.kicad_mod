@@ -1,4 +1,4 @@
-(module ACDC_Conv_SMMeanWell-IRM-02-XX (layer F.Cu) (tedit 59FD9555)
+(module ACDC-Conv_SMMeanWell-IRM-02-XX (layer F.Cu) (tedit 59FEFAF6)
   (descr "ACDC-Converter, 3W, Meanwell, IRM-02, SMD, https://www.meanwell.co.uk/media/productPDF/IRM-02-spec.pdf")
   (tags "ACDC-Converter 3W")
   (attr smd)

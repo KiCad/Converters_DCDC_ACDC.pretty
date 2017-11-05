@@ -1,6 +1,6 @@
-(module ACDC-Conv_Traco-TMLM-10-20 (layer F.Cu) (tedit 59FDC7C5)
+(module ACDC-Conv_Traco-TMLM-10-20 (layer F.Cu) (tedit 59FEFBCC)
   (descr "ACDC-Converter, TRACO TMLM 10, TRACO TMLM 20, https://www.tracopower.com/products/tmlm.pdf")
-  (tags "ACDC-Converter, TRACO TMLM 10, TRACO TMLM 20,")
+  (tags "ACDC-Converter TRACO TMLM 10 and TMLM 20")
   (fp_text reference REF** (at -1.26 -15.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at 45.72 10.16) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 45.72 -10.16) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 36 9.4) (size 4 4) (drill 4) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traoo-TMLM-10-20.wrl
+  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traco-TMLM-10-20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

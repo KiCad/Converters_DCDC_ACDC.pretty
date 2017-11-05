@@ -1,6 +1,6 @@
-(module ACDC-Conv_Traco-TMLM-05 (layer F.Cu) (tedit 59FDC7AA)
+(module ACDC-Conv_Traco-TMLM-05 (layer F.Cu) (tedit 59FEFBB5)
   (descr "ACDC-Converter, TRACO TMLM 05,https://www.tracopower.com/products/tmlm.pdf")
-  (tags "ACDC-Converter, TRACO TMLM 05,")
+  (tags "ACDC-Converter TRACO TMLM 05,")
   (fp_text reference REF** (at -0.53 -14.09) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -19,7 +19,7 @@
   (fp_line (start 48.26 13.14) (end -2.54 13.14) (layer F.Fab) (width 0.1))
   (fp_line (start 48.26 -12.26) (end 48.26 13.14) (layer F.Fab) (width 0.1))
   (fp_line (start -2.54 -12.26) (end 48.26 -12.26) (layer F.Fab) (width 0.1))
-  (fp_text user %R (at 23 0) (layer F.SilkS)
+  (fp_text user %R (at 23 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.54 -0.5) (end -2.54 -12.26) (layer F.Fab) (width 0.1))
@@ -30,7 +30,7 @@
   (pad 2 thru_hole circle (at 0 10.16) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 45.72 10.16) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 45.72 -10.16) (size 2.8 2.8) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traoo-TMLM-05.wrl
+  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traco-TMLM-05.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

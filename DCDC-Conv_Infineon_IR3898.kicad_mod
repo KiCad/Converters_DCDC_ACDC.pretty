@@ -1,5 +1,5 @@
-(module DCDC-Conv_Infineon_IR3898 (layer F.Cu) (tedit 576341D5)
-  (descr "IR3898 4x5mm PQFN 0.55mm Pitch")
+(module DCDC-Conv_Infineon_IR3898 (layer F.Cu) (tedit 59F60F4E)
+  (descr "IR3898 4x5mm PQFN 0.55mm Pitch, https://www.infineon.com/dgdl/ir3898m.pdf?fileId=5546d462533600a4015355d5ebb01815")
   (tags "infineon dcdc ")
   (solder_mask_margin 0.00001)
   (attr smd)
@@ -119,8 +119,8 @@
   (pad "" smd rect (at -0.1 1.335) (size 2.19 1.2) (layers F.Mask)
     (solder_mask_margin 0.0001) (solder_paste_margin_ratio -0.1))
   (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_Infineon_IR3898.wrl
-    (at (xyz -0.07875 -0.09845 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
